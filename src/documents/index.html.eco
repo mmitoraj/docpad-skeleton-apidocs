@@ -14,7 +14,7 @@ title: 'Home'
     <div class="row u-position-relative">
 
       <div class="col-md-8 col-md-offset-2">
-        <h1 class="jumbotron__title jumbotron__title--featured">Welcome to DocPort</h1>
+        <h1 class="jumbotron__title jumbotron__title--featured">Welcome to awesome DocPort</h1>
         <p class="jumbotron__paragraph jumbotron__paragraph--featured">This is where you can test your documentation.</p>
       </div>
 
